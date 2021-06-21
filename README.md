@@ -1,7 +1,10 @@
 ## TCP/IP in Rust
 
-### build 
-**$** cargo build
-
+### build
+``` 
+$ cargo build
+```
 ### run
-**$** cargo run
+```
+$ cargo run
+```
