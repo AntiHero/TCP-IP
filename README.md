@@ -2,9 +2,9 @@
 
 ### build
 ``` 
-$ cargo build
+$ cargo b --release
 ```
 ### run
 ```
-$ cargo run
+$ target/release/tcp-ip
 ```
